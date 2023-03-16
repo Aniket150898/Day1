@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "..\Abstracti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "..\Variables\Variables.csproj", "{75630EC3-651A-40A1-A454-87D7344A5F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesOfMethods", "..\TypesOfMethods\TypesOfMethods.csproj", "{9ADB7DE2-EE0B-444D-8EB2-937109043E65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesOfMethods", "..\TypesOfMethods\TypesOfMethods.csproj", "{9ADB7DE2-EE0B-444D-8EB2-937109043E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueReferenceType", "..\ValueReferenceType\ValueReferenceType.csproj", "{528F4B82-3722-4D2F-A083-3C79FECE39FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9ADB7DE2-EE0B-444D-8EB2-937109043E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADB7DE2-EE0B-444D-8EB2-937109043E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADB7DE2-EE0B-444D-8EB2-937109043E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528F4B82-3722-4D2F-A083-3C79FECE39FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528F4B82-3722-4D2F-A083-3C79FECE39FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528F4B82-3722-4D2F-A083-3C79FECE39FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528F4B82-3722-4D2F-A083-3C79FECE39FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
