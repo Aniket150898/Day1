@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "..\Polymorp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "..\Encapsulation\Encapsulation.csproj", "{27FCDFF1-56AC-456C-A365-D12A50313D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "..\Abstraction\Abstraction.csproj", "{71AE1248-9EEA-4B14-9729-1C7586D2D530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraction", "..\Abstraction\Abstraction.csproj", "{71AE1248-9EEA-4B14-9729-1C7586D2D530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "..\Variables\Variables.csproj", "{75630EC3-651A-40A1-A454-87D7344A5F42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{71AE1248-9EEA-4B14-9729-1C7586D2D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71AE1248-9EEA-4B14-9729-1C7586D2D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71AE1248-9EEA-4B14-9729-1C7586D2D530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75630EC3-651A-40A1-A454-87D7344A5F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75630EC3-651A-40A1-A454-87D7344A5F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75630EC3-651A-40A1-A454-87D7344A5F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75630EC3-651A-40A1-A454-87D7344A5F42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
